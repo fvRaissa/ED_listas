@@ -1,6 +1,6 @@
-package atvd1.controller;
+package listaSimples.controller;
 
-import atvd1.model.nó;
+import listaSimples.model.nó;
 
 public class encadSimplesController<T> {
 	private nó<T> inicio = null;

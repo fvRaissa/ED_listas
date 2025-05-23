@@ -1,6 +1,6 @@
-package atvd2.controller;
+package listaDupla.controller;
 
-import atvd2.model.No;
+import listaDupla.model.No;
 public class encadDuplaController {
 	private No inicio = null;
 	private No fim = null;

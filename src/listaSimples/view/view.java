@@ -1,7 +1,7 @@
-package atvd1.view;
+package listaSimples.view;
 
-import atvd1.controller.encadSimplesController;
-import atvd1.model.nó;
+import listaSimples.controller.encadSimplesController;
+import listaSimples.model.nó;
 
 public class view {
 

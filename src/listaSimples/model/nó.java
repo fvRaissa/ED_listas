@@ -1,4 +1,4 @@
-package atvd1.model;
+package listaSimples.model;
 
 
 public class nó<T> {

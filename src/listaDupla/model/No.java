@@ -1,4 +1,4 @@
-package atvd2.model;
+package listaDupla.model;
 
 public class No {
 	int valor;

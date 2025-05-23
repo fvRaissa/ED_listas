@@ -1,6 +1,6 @@
-package atvd2.view;
+package listaDupla.view;
 
-import atvd2.controller.encadDuplaController;
+import listaDupla.controller.encadDuplaController;
 
 public class view {
 
